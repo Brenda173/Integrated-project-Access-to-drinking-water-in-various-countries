@@ -13,3 +13,6 @@ The greater the Gross National Income, the more urbanized the region.
 High-income countries are more urbanized than low, lower-middle and middle-income countries.
 More people included in this dataset live in lower middle income countries than in any of the other types of economies
 
+To view my work, you can access it through the link below:
+https://docs.google.com/spreadsheets/d/1w7IUyl9Kl8NrsIC4PtP7Mn0LgD4LBJE8dQqRdlqVclE/edit?usp=sharing
+
